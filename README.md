@@ -2,8 +2,19 @@ PEMSCL
 ===
 This is the official implementation for "[Towards Integration of Discriminability and Robustness for Document-Level Relation Extraction](https://arxiv.org/abs/2304.00824)" (EACL 2023, Main Conference).
 
+## Citation
+If you find our work helpful for your research, please cite our paper:
 
-## Environments
+```bibtex
+@inproceedings{pemscl,
+    title = "Towards Integration of Discriminability and Robustness for Document-Level Relation Extraction",
+    author = "Jia Guo and Stanley Kok and Lidong Bing",
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
+    year = "2023"
+}
+```
+
+## Installation
 ```bash
 >> conda create -n pemscl python==3.7.4
 >> conda activate pemscl
