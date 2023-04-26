@@ -1,6 +1,0 @@
-tqdm==4.61.1
-transformers==4.8.2
-ujson==4.0.2
-numpy==1.19.4
-apex==0.1
-opt-einsum==3.3.0
